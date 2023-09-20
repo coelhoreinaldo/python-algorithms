@@ -15,3 +15,10 @@ def encrypt_message(message: str, key: int):
         part_two, part_one = part_one, part_two
 
     return "".join(part_one) + "_" + "".join(part_two)
+
+
+# print(encrypt_message("hello world", "olá"))  # teste 1
+# print(encrypt_message(1, 1))  # teste 2
+# print(encrypt_message("hello", 10))  # teste 3 print("hello"[::-1])
+# print(encrypt_message("encrypted", 3))  # teste 4
+# print(encrypt_message("encrypted", 4))  # teste 5
