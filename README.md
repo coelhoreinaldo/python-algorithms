@@ -1,4 +1,4 @@
-# ⚽ Python - Algoritmos
+# 🐍 Python - Algoritmos
 
 ![Project](./project.png)
 
